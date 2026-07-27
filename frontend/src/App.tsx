@@ -140,6 +140,7 @@ export default function App() {
           同一タグの staging / production でこの票が完全一致すれば、
           「build once / deploy many」が守られている証拠です。
         </p>
+        <p>環境: {env}</p>
       </footer>
     </main>
   );
