@@ -1,4 +1,4 @@
-# Git ワークフローチュートリアル テンプレートリポジトリ（BASE変更）
+# Git ワークフローチュートリアル テンプレートリポジトリ（HEAD変更）
 
 開発規約 (trunk-based + バージョン駆動リリース + build once/deploy many + upstream first)
 に準拠した開発〜リリースのワークフローを、AWS 上で実際に体験するためのテンプレートです。
