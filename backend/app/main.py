@@ -20,6 +20,7 @@ def version() -> dict:
         "git_sha": os.getenv("GIT_SHA", "local"),
         "image_digest": os.getenv("IMAGE_DIGEST"),
         "environment": os.getenv("APP_ENV", "local"),
+        "region": os.getenv("AWS_REGION", "local"),
     }
 
 
